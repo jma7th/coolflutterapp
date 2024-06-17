@@ -1,6 +1,10 @@
 # coolflutterapp
 
-A new Flutter project.
+Projeto para atividade final da disciplina de desenvolvimento de aplicativos móveis.
+
+Dentro deste repositório, está contido um arquivo do Word (.docx) que relata passo a passo o desenvolvimento da aplicação através do chat com a IA do Gemini.
+
+Trabalho desenvolvido por: Abel Costa, Enzo dos Anjos e João Matheus.
 
 ## Getting Started
 
